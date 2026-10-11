@@ -1,0 +1,6 @@
+name=input()
+years=input()
+gole=input()
+print("="*5,"我的自我介绍","="*5)
+print(f"大家好，我叫{name}。\n我做了{years}年财务。\n我接下来的目标是：{gole}。")
+print("="*30)
