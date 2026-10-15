@@ -14,6 +14,8 @@ salary_calc.py：变量数据类型转换
 
 bonus_calc.py:算术 · 比较 · 逻辑 —— 用年终奖计算一次练透
 
+tax_calc01.py：让程序学会“看情况办事”：if / elif / else
+
 学到的东西
 
 变量就是给数据起名字，文字加引号、数字不加
